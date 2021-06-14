@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-async-series-waterfall",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Execute functions in series, passing the results of one function as arguments to the next function.",
   "license": "Apache-2.0",
   "author": {
