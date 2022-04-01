@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/utils-async-series-waterfall",
+  "version": "0.0.0",
+  "description": "Execute functions in series, passing the results of one function as arguments to the next function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-async-series-waterfall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utils",
+    "util",
+    "async",
+    "waterfall",
+    "series",
+    "consecutive",
+    "sequential",
+    "functions",
+    "fcns",
+    "run",
+    "control",
+    "flow"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
