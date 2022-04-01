@@ -37,6 +37,7 @@
   "dependencies": {
     "@stdlib/assert-is-function": "^0.0.x",
     "@stdlib/assert-is-function-array": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
   },
   "devDependencies": {
