@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-async-series-waterfall",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Execute functions in series, passing the results of one function as arguments to the next function.",
   "license": "Apache-2.0",
   "author": {
@@ -35,14 +35,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-function": "^0.0.8",
-    "@stdlib/assert-is-function-array": "^0.0.7",
-    "@stdlib/string-format": "^0.0.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.7"
+    "@stdlib/assert-is-function": "^0.1.0",
+    "@stdlib/assert-is-function-array": "^0.1.0",
+    "@stdlib/string-format": "^0.1.0",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/string-replace": "^0.0.11",
-    "@stdlib/utils-noop": "^0.0.14",
+    "@stdlib/string-replace": "^0.1.0",
+    "@stdlib/utils-noop": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
