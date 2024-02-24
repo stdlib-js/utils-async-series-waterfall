@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import waterfall from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@deno/mod.js';
+import waterfall from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@v0.2.1-deno/mod.js';
 ```
 
 #### waterfall( fcns, clbk\[, thisArg] )
@@ -179,7 +179,7 @@ run();
 
 ```javascript
 import replace from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-replace@deno/mod.js';
-import waterfall from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@deno/mod.js';
+import waterfall from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-series-waterfall@v0.2.1-deno/mod.js';
 
 function foo( next ) {
     next( null, 'beep' );
