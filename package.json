@@ -36,13 +36,13 @@
   },
   "dependencies": {
     "@stdlib/assert-is-function": "^0.2.3",
-    "@stdlib/assert-is-function-array": "^0.2.2",
+    "@stdlib/assert-is-function-array": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/string-replace": "^0.2.2",
+    "@stdlib/string-replace": "^0.2.3",
     "@stdlib/utils-noop": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
